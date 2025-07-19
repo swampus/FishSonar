@@ -8,6 +8,16 @@ Ever wanted to spot a THICC FISH or a SLEEPY FISH in your trade stream? This pro
 
 ---
 
+## Why FishSonar?
+
+Because the crypto market is full of fish — some lucky, most hopeless, and all easy prey for sharks.
+FishSonar doesn’t judge, it just detects.
+Use it to see the hidden shoals of trading “fish”… but don’t expect to catch a real shark:  
+**this sonar only finds fish.**
+
+Looking for sharks? Sorry, they’re too smart for algorithms.  
+(Maybe in the next version, when we finally attach an AI model and train it… But trust me, that’s a whole new level of pain.)
+
 ## Features
 
 - **Real-time detection** of suspicious ("fishy") trades on Binance.
