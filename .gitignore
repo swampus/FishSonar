@@ -1,0 +1,52 @@
+# Go build artifacts
+.idea/
+bin/
+build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go modules
+vendor/
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage/test results
+coverage.*
+*.coverprofile
+
+# Dependency management
+Gopkg.lock
+Gopkg.toml
+
+# Local env files
+.env
+.env.*
+
+# GoLand, JetBrains, Code-workspace
+*.iml
+*.code-workspace
+
+# VSCode Go plugin
+__debug_bin
+
+# Go race detector files
+race.out
+
+# By convention: custo
