@@ -155,3 +155,6 @@ curl http://localhost:8080/api/shark-advice
    
     go run ./cmd/main.go
     ```
+
+**Keywords:**  
+`go`, `golang`, `crypto`, `binance`, `market-data`, `trading`, `websocket`, `rest-api`, `microservice`, `clean-architecture`, `event-detection`, `quant`, `fun`, `fintech`
